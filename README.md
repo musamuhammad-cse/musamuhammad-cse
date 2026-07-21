@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:1E2535&height=210&section=header&text=Md.%20Abu%20Musa&fontSize=42&fontColor=5EEA9E&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%C2%B7%20Go%20%7C%20PHP%2FLaravel%20%7C%20AWS&descAlignY=55&descSize=18&descColor=8892A4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:1E2535&height=210&section=header&text=Md%20Abu%20Musa&fontSize=42&fontColor=5EEA9E&fontAlignY=35&desc=Backend%20Software%20Engineer&descAlignY=55&descSize=18&descColor=8892A4&animation=fadeIn" width="100%"/>
 
 <a href="https://musamuhammad-cse.github.io">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=5EEA9E&center=true&vCenter=true&width=650&height=40&lines=Building+scalable+backend+systems+since+2016;8%2B+years+%7C+Healthcare+%C2%B7+Media+%C2%B7+E-commerce;Currently+%40+Pivotly+(Remote%2C+USA);Open+to+Remote+%26+Europe+Relocation"/>
@@ -21,14 +21,14 @@
 
 ## 👨‍💻 About Me
 
-> Backend Software Engineer with **8+ years** building scalable, production-grade systems across **healthcare, media, and e-commerce**. I care about clean architecture, performance at scale, and shipping systems that don't page anyone at 3 AM.
+> Backend Software Engineer with **8+ years** building scalable, production-grade systems across **healthcare, media, e-commerce, inventory**. I care about clean architecture, performance at scale, and shipping systems that don't page anyone at 3 AM.
 
 - 🏗️ **RESTful API design** & distributed systems
 - 🧩 **Multi-tenant architecture** & microservices
 - ⚡ **Performance engineering** — query profiling, indexing, caching strategies
 - ☁️ **Cloud-native infrastructure** on AWS
 
-📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌍 Open to remote work & Europe relocation
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🌍 Open to remote work & relocation
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 **Languages & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=go,php,laravel,python,ts,js,graphql,bash&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=php,go,laravel&theme=dark&perline=8"/>
 
 **Databases & Storage**
 <br/>
@@ -87,11 +87,8 @@
 
 <div align="center">
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=musafci&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=musamuhammad-cse&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musamuhammad-cse&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musamuhammad-cse&theme=radical&hide_border=true" width="70%"/>
+
 </div>
 
 <br/>
@@ -104,8 +101,6 @@
 <a href="https://www.linkedin.com/in/musamuhammad-cse"><img src="https://img.shields.io/badge/-musamuhammad--cse-0A0E14?style=flat&logo=linkedin&logoColor=5EEA9E"/></a>
 <a href="https://github.com/musamuhammad-cse"><img src="https://img.shields.io/badge/-musamuhammad--cse-0A0E14?style=flat&logo=github&logoColor=5EEA9E"/></a>
 <a href="https://musamuhammad-cse.github.io"><img src="https://img.shields.io/badge/-musamuhammad--cse.github.io-0A0E14?style=flat&logo=google-chrome&logoColor=5EEA9E"/></a>
-
-📞 01821-326978
 
 </div>
 
