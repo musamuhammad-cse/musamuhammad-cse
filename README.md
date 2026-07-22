@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-> Backend Software Engineer with **8+ years** building scalable, production-grade systems across **healthcare, media, e-commerce, and inventory** domains using **PHP/Laravel, Go, and AWS**. Specialized in RESTful API design, distributed systems, multi-tenant architecture, and performance optimization in product-driven environments.
+> Backend Software Engineer with **8+ years** building scalable, production-grade systems across **healthcare, media, e-commerce, and inventory** domains using **PHP/Laravel, Go,JS, and AWS**. Specialized in RESTful API design, distributed systems, multi-tenant architecture, and performance optimization in product-driven environments.
 
 - 🏗️ **RESTful API design** & distributed systems
 - 🧩 **Multi-tenant architecture** & microservices
